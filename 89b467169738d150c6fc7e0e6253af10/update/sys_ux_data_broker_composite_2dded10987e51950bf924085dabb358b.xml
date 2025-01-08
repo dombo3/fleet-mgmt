@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_composite">
     <sys_ux_data_broker_composite action="INSERT_OR_UPDATE">
         <api_name>x_snc_flt_mgmt.Get Vehicle Information</api_name>
+        <batch_exclude>false</batch_exclude>
         <data_drivers>{&#13;
     "vehicleQuery" : {&#13;
         "definition": {&#13;

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
     <sys_ux_macroponent action="INSERT_OR_UPDATE">
         <associated_types/>
+        <bundles/>
         <category>page</category>
         <component_dependencies/>
         <composition>[ {
@@ -4071,10 +4072,12 @@
   "readEvaluationMode" : "EAGER"
 } ]</data>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <dispatched_events>027534ecc33201103581a5a1d840ddee</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <extension_point/>
+        <form_factors/>
         <handled_events>b94818a0cc2cebbe41369181e4c8d6a6</handled_events>
         <interactions/>
         <interfaces/>
@@ -4306,6 +4309,7 @@
 }</root_component_config>
         <root_component_definition/>
         <schema_version>1.0.0</schema_version>
+        <state_persistence_config/>
         <state_properties>[ ]</state_properties>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>

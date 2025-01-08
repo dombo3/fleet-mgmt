@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
     <sys_ux_macroponent action="INSERT_OR_UPDATE">
         <associated_types/>
+        <bundles/>
         <category>page</category>
         <component_dependencies/>
         <composition>[ {
@@ -618,10 +619,12 @@
   "readEvaluationMode" : "EXPLICIT"
 } ]</data>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <dispatched_events>243bc43187215510ff1ffcc4dabb3519</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <extension_point/>
+        <form_factors/>
         <handled_events>4e6bb0f187a15510ff1ffcc4dabb3529</handled_events>
         <interactions/>
         <interfaces/>
@@ -709,6 +712,7 @@
         <root_component_config>{ }</root_component_config>
         <root_component_definition/>
         <schema_version>1.0.0</schema_version>
+        <state_persistence_config/>
         <state_properties>[ {
   "name" : "newRequestShortDescription",
   "label" : "newRequestShortDescription",

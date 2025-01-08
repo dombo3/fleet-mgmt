@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-25 16:01:44</sys_created_on>
-        <sys_id>8328b90ce86221107f445b2bd780fc86</sys_id>
+        <sys_id>64b1e4a883cb161018c19965eeaad3ab</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>chat_survey</sys_name>
         <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
-        <sys_update_name>ua_table_licensing_config_8328b90ce86221107f445b2bd780fc86</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_64b1e4a883cb161018c19965eeaad3ab</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-01-25 16:01:44</sys_updated_on>
     </ua_table_licensing_config>
